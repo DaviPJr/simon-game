@@ -6,7 +6,7 @@ It works like a memory game, the user has to remember the sequence and click exa
 
 If the user messes up the sequence, the game restarts.
 
-## What the relevance of this project for developers?
+## What is the relevance of this project for developers?
 
 - :small_blue_diamond:JQuery;
 - :small_orange_diamond:Callback functions;
