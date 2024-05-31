@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Game :video_game:
 
 ## This project is a game made entirely with HTML, CSS and JavaScript
 
@@ -8,6 +8,8 @@ If the user messes up the sequence, the game restarts.
 
 ## What the relevance of this project for developers?
 
-- JQuery;
-- Callback functions;
-- Array manipulations;
+- :small_blue_diamond:JQuery;
+- :small_orange_diamond:Callback functions;
+- :small_blue_diamond:Array manipulations;
+
+Check out the documentation of this JS library: [JQuery Doc](https://pages.github.com/)
